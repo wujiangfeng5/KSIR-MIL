@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+
+# Editors
+.idea/
+.vscode/
+.DS_Store
+
+# Experiment artifacts
+data/
+splits/
+results/
+predictions/
+*.pt
+*.pth
